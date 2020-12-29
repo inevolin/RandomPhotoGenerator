@@ -1,4 +1,4 @@
-# RandomPhotoGenerator-GOL
+# Random Photo Generator
 
 Demo: 
 
